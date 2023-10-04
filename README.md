@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-card-using-css-flexbox-Mr8Lk7iilU
 - Live Site URL: (https://dedo-dev.github.io/order-summary-card/)
 
 ### Built with
